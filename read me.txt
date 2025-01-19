@@ -1,0 +1,3 @@
+install gd library ( go php.ini and erase semicolon)
+admin 
+admin123
